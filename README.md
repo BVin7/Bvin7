@@ -1,10 +1,10 @@
 ![kenobi hello there meme](https://gifimage.net/wp-content/uploads/2018/04/obi-wan-hello-there-gif-8.gif)
-<h1>Welcome to my profile! =D</h1>
+<h1>Welcome to my profile!</h1>
 <h2>About me:</h2>
 
 - 🌱 I'm still a developer in progress, learning how to code with `JavaScript`, `HTML`, `CSS` and making my way towards my first job as a Front-End Developer
 and in the future as a Full-Stack Developer.
-- 💬 I come from Brazil but I am fluent in English.
+- 💬 I come from Brazil but I can speak English pretty nicely.
 - 🎶 I love music. My day is just not complete if I don't listen to at least one song. Check out my Spotify profile below to find out what kind of music I like to listen to 🙂.
 
 <div>
