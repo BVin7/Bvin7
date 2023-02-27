@@ -1,5 +1,8 @@
-![kenobi hello there meme](https://gifimage.net/wp-content/uploads/2018/04/obi-wan-hello-there-gif-8.gif)
-<h1>Welcome to my profile!</h1>
+<div align="center">
+<h1>🕺 Welcome to my profile!</h1>
+<img src="https://gifimage.net/wp-content/uploads/2018/04/obi-wan-hello-there-gif-8.gif" alt="Kenobi Hello There meme"/ height="300px">
+</div>
+
 <h2>About me:</h2>
 
 - 🌱 I'm still a developer in progress, learning how to code with `JavaScript`, `HTML`, `CSS` and making my way towards my first job as a Front-End Developer
