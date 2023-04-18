@@ -1,6 +1,6 @@
 <div align="center">
 <h1>🕺 Welcome to my profile!</h1>
-<img src="https://gifimage.net/wp-content/uploads/2018/04/obi-wan-hello-there-gif-8.gif" alt="Kenobi Hello There meme"/ height="300px">
+<img src="https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp" alt="Kenobi Hello There meme"/ height="300px">
 </div>
 
 <h2>About me:</h2>
